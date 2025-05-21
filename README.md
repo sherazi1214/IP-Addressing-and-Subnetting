@@ -5,3 +5,6 @@ An IP Address (Internet Protocol Address) is a unique identifier assigned to eac
 #### Type	Example	Use
 IPv4 ----------  (32-bit)----------	   192.168.1.1 -----------       	Most common (uses 4 octets) <br>
 IPv6 ----------  (128-bit)----------	 2001:0db8::1 -----------        Newer, supports more devices
+
+
+![IP](https://www.astrill.com/blog/wp-content/uploads/2022/06/ipv4-vs-ipv6.png)
